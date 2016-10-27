@@ -1,4 +1,4 @@
-# microbit-remote-car
+# micro:bit-remote-car
 
 
 Hardware needed: 
