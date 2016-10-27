@@ -6,8 +6,8 @@ Hardware needed:
 *	1 x Line following buggy from Kitronik
 
 Instructions: 
-  - Press A:  Sets micro:bit in remote control mode (Press A this one the Microbit you use to control the car)
-  - Press B: Sets micro:bit in car control mode (press B on the Microbit placed in the buggy)
+  - Press A:  Sets micro:bit in remote control mode (Press A one the micro:bit you use to control the car)
+  - Press B: Sets micro:bit in car control mode (press B on the micro:bit placed in the buggy)
   - Press A+B: Enter standby mode. (to avoid the car driving while waiving the controller around). After pressing A+B you have to reconfigure the micro:bit's as described above.
 
 To view code: 
